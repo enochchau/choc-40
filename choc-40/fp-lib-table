@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Keebio-Parts)(type KiCad)(uri /home/enochc/Documents/KiCad/choc-40/lib/footprints/Keebio-Parts.pretty-master)(options "")(descr ""))
+)

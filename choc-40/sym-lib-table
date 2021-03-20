@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name keebio)(type Legacy)(uri /home/enochc/Documents/KiCad/choc-40/lib/symbols/keebio-components-master/keebio.lib)(options "")(descr ""))
+)
