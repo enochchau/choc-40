@@ -14,3 +14,5 @@ Estimated cost:
 Total: $95.30
 Shipping: $20
 
+Switches are spaced 18.55mm x 19mm apart (width x length). 
+This should be large enough for any style of choc-v1 switch keycaps.
