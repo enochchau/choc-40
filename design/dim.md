@@ -1,6 +1,6 @@
 # Dimensions
-
-## Keycap Width x Length
+https://plate.keeb.io/
+## Keycap width x length
 * [17.5mm x 17.95mm](https://splitkb.com/products/kailh-choc-transparent-keycaps)
 * [17.5mm * 16.5mm](https://splitkb.com/products/blank-mbk-choc-low-profile-keycaps?_pos=1&_sid=49b3f7271&_ss=r)
 
