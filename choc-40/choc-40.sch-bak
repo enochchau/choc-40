@@ -1606,4 +1606,59 @@ COL11
 Text GLabel 5950 8550 2    50   Input ~ 0
 COL12
 NoConn ~ 3300 5200
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 60832471
+P 7200 4650
+F 0 "H1" H 7300 4696 50  0000 L CNN
+F 1 "MountingHole" H 7300 4605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 7200 4650 50  0001 C CNN
+F 3 "~" H 7200 4650 50  0001 C CNN
+	1    7200 4650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 60836562
+P 7200 5000
+F 0 "H2" H 7300 5046 50  0000 L CNN
+F 1 "MountingHole" H 7300 4955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 7200 5000 50  0001 C CNN
+F 3 "~" H 7200 5000 50  0001 C CNN
+	1    7200 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 6083D2C8
+P 7200 5350
+F 0 "H3" H 7300 5396 50  0000 L CNN
+F 1 "MountingHole" H 7300 5305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 7200 5350 50  0001 C CNN
+F 3 "~" H 7200 5350 50  0001 C CNN
+	1    7200 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 60846D60
+P 8000 4650
+F 0 "H4" H 8100 4696 50  0000 L CNN
+F 1 "MountingHole" H 8100 4605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 8000 4650 50  0001 C CNN
+F 3 "~" H 8000 4650 50  0001 C CNN
+	1    8000 4650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 60846D66
+P 8000 5000
+F 0 "H5" H 8100 5046 50  0000 L CNN
+F 1 "MountingHole" H 8100 4955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad_Via" H 8000 5000 50  0001 C CNN
+F 3 "~" H 8000 5000 50  0001 C CNN
+	1    8000 5000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
