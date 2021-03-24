@@ -1633,23 +1633,6 @@ F 3 "~" H 8000 5000 50  0001 C CNN
 	1    8000 5000
 	1    0    0    -1  
 $EndComp
-$Comp
-L Switch:SW_Push SW50
-U 1 1 605A6636
-P 5350 4350
-F 0 "SW50" H 5350 4635 50  0000 C CNN
-F 1 "SW_Push" H 5350 4544 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-2u-NoLED" H 5350 4550 50  0001 C CNN
-F 3 "~" H 5350 4550 50  0001 C CNN
-	1    5350 4350
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5550 3650 5550 4350
-Connection ~ 5550 3650
-Wire Wire Line
-	5150 3650 5150 4350
-Connection ~ 5150 3650
 Wire Wire Line
 	3800 5300 3800 5050
 $Comp
